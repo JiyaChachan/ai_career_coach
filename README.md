@@ -1,13 +1,13 @@
 🤖 AI Career Coach for Data Science
 
 
-🌟 Overview
-The AI Career Coach for Data Science is a full-stack generative AI application designed to help aspiring data professionals navigate their career paths. The tool analyzes real-world job descriptions, extracts key skills, and provides personalized portfolio project recommendations.
-
-This project serves as an end-to-end demonstration of a modern data science application, from data collection and model interaction to deployment in a cloud environment.
+🌟 **Overview**:
+The AI Career Coach for Data Science is a full-stack generative AI application designed to help aspiring data professionals navigate their career paths. The tool analyzes real-world job descriptions, extracts key skills, and provides personalized portfolio project recommendations. This project serves as an end-to-end demonstration of a modern data science application, from data collection and model interaction to deployment in a cloud environment.
 
 
-✨ Features
+✨ **Features**
+
+
 Job Description Analysis: Analyze raw job descriptions to identify and extract crucial technical skills.
 
 Gemini API Integration: Leverages the power of the Google Gemini API with a few-shot learning prompt for highly accurate and consistent skill extraction.
@@ -19,7 +19,11 @@ Project Idea Generation: Based on the top skills, the application generates rele
 Interactive Web App: A user-friendly interface built with Streamlit allows for manual input of job descriptions and real-time visualization of results.
 
 
-🛠️ Technology Stack
+
+
+🛠️ **Technology Stack**
+
+
 Language: Python
 
 Web Framework: Streamlit
@@ -35,6 +39,8 @@ Containerization: Docker
 Deployment: Hugging Face Spaces 
 
 
+
+
 🚀 Getting Started
 
 Prerequisites: A Gemini API key
@@ -43,6 +49,7 @@ Local Setup
 Clone the repository:
 
 git clone https://github.com/JiyaChachan/ai_career_coach
+
 cd ai-career-coach
 
 Create a virtual environment:
