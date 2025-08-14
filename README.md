@@ -1,5 +1,6 @@
 🤖 AI Career Coach for Data Science
 
+https://huggingface.co/spaces/jiyachachan/ai_career_coach
 
 🌟 **Overview**:
 The AI Career Coach for Data Science is a full-stack generative AI application designed to help aspiring data professionals navigate their career paths. The tool analyzes real-world job descriptions, extracts key skills, and provides personalized portfolio project recommendations. This project serves as an end-to-end demonstration of a modern data science application, from data collection and model interaction to deployment in a cloud environment.
