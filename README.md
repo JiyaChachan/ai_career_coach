@@ -48,7 +48,7 @@ Prerequisites: A Gemini API key
 Local Setup
 Clone the repository:
 
-git clone https://github.com/JiyaChachan/ai_career_coach
+git clone https://github.com/JiyaChachan/ai_career_coach.git
 
 cd ai-career-coach
 
