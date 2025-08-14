@@ -1,4 +1,4 @@
-🤖 AI Career Coach for Data Science
+# AI Career Coach for Data Science
 
 https://huggingface.co/spaces/jiyachachan/ai_career_coach
 
