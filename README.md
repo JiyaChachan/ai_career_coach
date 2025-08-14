@@ -41,7 +41,7 @@ Deployment: Hugging Face Spaces
 
 
 
-🚀 Getting Started
+🚀 **Getting Started**
 
 Prerequisites: A Gemini API key
 
@@ -72,7 +72,8 @@ streamlit run app.py
 
 The app will be available at http://localhost:8501.
 
-🐳 Deployment
+🐳 **Deployment**
+
 This project is designed for seamless deployment using Docker.
 
 Hugging Face Spaces
@@ -86,8 +87,10 @@ In the Space's settings, add a new secret named API_KEY and paste your Gemini AP
 
 Hugging Face will automatically build and deploy your app.
 
-🤝 Contributions
+🤝 **Contributions**
+
 Contributions, issues, and feature requests are welcome.
 
-📄 License
+📄 **License**
+
 This project is licensed under the MIT License.
