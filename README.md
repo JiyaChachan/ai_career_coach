@@ -2,11 +2,12 @@
 
 https://huggingface.co/spaces/jiyachachan/ai_career_coach
 
-🌟 **Overview**:
+## Overview:
+
 The AI Career Coach for Data Science is a full-stack generative AI application designed to help aspiring data professionals navigate their career paths. The tool analyzes real-world job descriptions, extracts key skills, and provides personalized portfolio project recommendations. This project serves as an end-to-end demonstration of a modern data science application, from data collection and model interaction to deployment in a cloud environment.
 
 
-✨ **Features**
+## Features:
 
 
 Job Description Analysis: Analyze raw job descriptions to identify and extract crucial technical skills.
@@ -22,7 +23,7 @@ Interactive Web App: A user-friendly interface built with Streamlit allows for m
 
 
 
-🛠️ **Technology Stack**
+## Technology Stack:
 
 
 Language: Python
@@ -42,7 +43,7 @@ Deployment: Hugging Face Spaces
 
 
 
-🚀 **Getting Started**
+## Getting Started
 
 Prerequisites: A Gemini API key
 
@@ -73,7 +74,7 @@ streamlit run app.py
 
 The app will be available at http://localhost:8501.
 
-🐳 **Deployment**
+## Deployment:
 
 This project is designed for seamless deployment using Docker.
 
@@ -88,10 +89,10 @@ In the Space's settings, add a new secret named API_KEY and paste your Gemini AP
 
 Hugging Face will automatically build and deploy your app.
 
-🤝 **Contributions**
+## Contributions
 
 Contributions, issues, and feature requests are welcome.
 
-📄 **License**
+## License
 
 This project is licensed under the MIT License.
